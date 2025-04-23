@@ -1,0 +1,11 @@
+ID,Vorname,Nachname,Alter,Lebenserwartung,Punkte,Aktiv,Ego,Charisma,Ideologie,Status,Land,Jahr,Amt,Loyalität,Kompetenz,Ego_Basis,Charisma_Basis,Ideologie_Basis,Loyalität_Basis,Kompetenz_Basis
+1,Giovanni,Rossi,65,88,82,Ja,75,60,30,Kardinal,Italien,2025,,75,80,75,60,30,75,80
+2,Carlos,García,72,91,85,Ja,82,64,28,Kardinal,Spanien,2025,,82,79,82,64,28,82,79
+3,Andrzej,Kowalski,69,89,83,Ja,77,66,25,Kardinal,Polen,2025,,77,85,77,66,25,85,77
+4,Jean,Dupont,61,86,79,Ja,68,55,40,Kardinal,Frankreich,2025,,68,62,68,55,40,62,68
+5,Mateo,Fernandez,70,87,84,Ja,80,61,22,Kardinal,Argentinien,2025,,80,76,80,61,22,76,80
+6,Luca,Silva,66,90,81,Ja,73,59,32,Kardinal,Brasilien,2025,,73,67,73,59,32,67,73
+7,Pedro,Lopez,68,92,86,Ja,74,65,35,Kardinal,Mexiko,2025,,74,70,74,65,35,70,74
+8,Thomas,Müller,67,88,83,Ja,79,58,33,Kardinal,Deutschland,2025,,79,77,79,58,33,77,79
+9,Emmanuel,Gruber,71,89,85,Ja,81,63,29,Kardinal,Österreich,2025,,81,69,81,63,29,69,81
+10,Hans,Weber,64,90,82,Ja,76,57,31,Kardinal,Schweiz,2025,,76,71,76,57,31,71,76
